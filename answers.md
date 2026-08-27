@@ -1,4 +1,3 @@
-<!-- Getting input from the user -->
 
 1. prompt() - displays a dialog window to input some text.
 2. always returns a string value, except: cancel = null.
