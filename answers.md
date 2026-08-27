@@ -1,10 +1,9 @@
-<!-- Getting input from the user -->
 
 1. prompt() - displays a dialog window to input some text.
 2. always returns a string value, except: cancel = null.
 3. prompt() gets string, parseInt() / parseFloat() converts to t numb.
 4. returns type of a variable, ex. srting, number boolean, null, undefined.
-5. converts to .toUpperCase("HELLO"), .toLowerCase(h"ello"), and clears spaces or tabs from start or end of the string .trim(     "Hello"    ).
+5. converts to .toUpperCase("HELLO"), .toLowerCase("hello"), and clears spaces or tabs from start or end of the string .trim(     "Hello"    ).
 6. \n - new line, \t - tab.
 7. string = "text" or 'text', number - 99;
 8. boolean
